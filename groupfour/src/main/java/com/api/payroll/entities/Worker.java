@@ -62,5 +62,7 @@ public class Worker implements Serializable {
 		Worker other = (Worker) obj;
 		return Objects.equals(id, other.id);
 	}
+
+	teste
 	
 }
