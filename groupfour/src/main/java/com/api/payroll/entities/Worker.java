@@ -14,6 +14,7 @@ public class Worker implements Serializable {
 		
 	}
 
+	// Worker
 	public Worker(Long id, String name, Double dailyIncome) {
 		super();
 		this.id = id;
